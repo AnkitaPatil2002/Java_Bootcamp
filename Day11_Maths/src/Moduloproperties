@@ -1,0 +1,15 @@
+
+Properties of Modulo:-
+
+(a+b)%m = ((a%m) +(b%m))% m
+(a-b)%m= ((a%m) -(b%m)+m) % m
+(a * b)=((a%m)*(b%m))% m
+
+(a/b)% m=(a%m) *( b^-1%m)% m
+
+b^-1% m =multiplicative modulo inverse
+
+(a%m) % m = a%m
+m^x % m =0 //x belongs to positive integers
+
+Extra-If p is prime
